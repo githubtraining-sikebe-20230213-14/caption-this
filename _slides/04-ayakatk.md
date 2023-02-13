@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+git hub training 20230213
 
 ![constructocat](https://octodex.github.com/images/constructocat2.jpg)
 {: .center}
